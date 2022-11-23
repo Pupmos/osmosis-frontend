@@ -42,6 +42,10 @@ const SUPPORTED_LANGUAGES: MenuDropdownIconItemProps[] = [
     value: "zh-tw",
     display: "正體中文",
   },
+  {
+    value: "pup",
+    display: "Pupmøs",
+  },
 ];
 
 export class LanguageUserSetting implements IUserSetting<LanguageState> {

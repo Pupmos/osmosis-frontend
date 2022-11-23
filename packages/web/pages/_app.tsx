@@ -35,6 +35,7 @@ import en from "../localizations/en.json";
 import { Formatted } from "../components/localization";
 import dayjsLocaleEs from "../localizations/dayjs-locale-es.js";
 import dayjsLocaleKo from "../localizations/dayjs-locale-ko.js";
+import dayjsLocalePup from "../localizations/dayjs-locale-pup.js";
 
 dayjs.extend(relativeTime);
 dayjs.extend(duration);
@@ -42,6 +43,7 @@ dayjs.extend(utc);
 dayjs.extend(updateLocale);
 dayjs.updateLocale("es", dayjsLocaleEs);
 dayjs.updateLocale("ko", dayjsLocaleKo);
+dayjs.updateLocale("pup", dayjsLocalePup);
 enableStaticRendering(typeof window === "undefined");
 
 const DEFAULT_LANGUAGE = "en";

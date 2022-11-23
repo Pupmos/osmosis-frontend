@@ -1,0 +1,378 @@
+{
+  "app": {
+    "banner": {
+      "title": "u r viewimg permisshonlezz assetz",
+      "linkText": "u r viewimg all permissionlezz assetz. <link>clicc here 2 returm 2 da main app</link>."
+    }
+  },
+  "swap": {
+    "title": "Zwap",
+    "settings": {
+      "title": "Tranzaccshon Zettingz",
+      "slippage": "Zlippag pawleranze",
+      "slippageInfo": "Ur tranzaccshon wil revurt if da price changez unfavorablee bi moar dan dis perzentag"
+    },
+    "available": "Availabowl",
+    "MAX": "WOMBAT",
+    "HALF": "HALF",
+    "button": "Zwap Treetz",
+    "buttonError": "zwap enywae",
+    "priceImpact": "Price Gloomiez",
+    "fee": "førbiddem treetz ({fee})",
+    "expectedOutput": "Expected Treetz",
+    "minimumSlippage": "Minimum treetz receibed affer slippiez ({slippage})",
+    "error": {
+      "findCurrency": "i could nawt zmel da currenzee {currency}"
+    }
+  },
+  "pools": {
+    "title": "DA SPLASHIEZ",
+    "poolId": "GRAZZ ROLL NUMMER {id}",
+    "priceOsmo": "❤️‍🔥 OZMO lovb",
+    "rewardDistribution": "🥓 baccon fallz from zky in",
+    "myPools": "MY SPLASHIEZ {I LOVB DA SPLASHIEZ¡!!)",
+    "APR": "ZOOMIEZ",
+    "available": "Availabol",
+    "liquidity": "Splashie Liquiditea",
+    "bonded": "zwalløwed",
+    "incentivized": "SPLASHIEZ WIF EXRA TREETZ",
+    "all": "ALL OV DA SPLASHIEZ",
+    "allTab": "ERRY SPLAZHIE",
+    "superfluid": {
+      "title": "ZUPERFLØØFIED SPLASHIEZ (DIS IZ ZO ESSITING¡¡¡¡}",
+      "tab": "Zuperdooperflooferfluid",
+      "APR": "ZOOMZ",
+      "liquidity": "liccwiditea",
+      "fees7D": "feez [49DG]"
+    },
+    "allPools": {
+      "title": "All Pools",
+      "myLiquidity": "my liquiditea",
+      "TVL": "blu buffalø",
+      "APR": "TREETZ 🌭",
+      "APRIncentivized": "49døgD Vol.",
+      "search": "Search pools",
+      "displayLowLiquidity": "Show pools < {value}",
+      "sort": {
+        "poolName": "nayme on cøllar",
+        "liquidity": "liccwiditea",
+        "volume24h": "wagz {7døgD)",
+        "fees": "patz [49døgD]",
+        "APRIncentivized": "TREETZ",
+        "APR": "my liccwiditea",
+        "poolId": "microchip"
+      }
+    },
+    "externalIncentivized": {
+      "title": "External Incentives",
+      "TVL": "TVL",
+      "APR": "APR",
+      "search": "Search by symbol",
+      "sort": {
+        "poolName": "Pool Name",
+        "liquidity": "Liquidity",
+        "APR": "APR",
+        "epochs": "Epochs Remaining",
+        "myLiquidity": "My Liquidity"
+      }
+    },
+    "createPool": {
+      "title": "Create New Pool",
+      "button": "Create New Pool",
+      "step": {
+        "one": "Step {step} / {nbStep} - Set token ratios",
+        "two": "Step {step} / {nbStep} - Input amount to add",
+        "three": "Step {step} / {nbStep} - Confirm pool ratio and token amount"
+      },
+      "infoMessage": "Pool Creation Fee",
+      "infoCaption": "Tranzfurred 2 da Pawzmøsis communitea pøøl",
+      "buttonCreate": "cre8 splashiez!¡¡¡",
+      "buttonNext": "neggzt",
+      "buttonBack": "bacc",
+      "buttonAddToken": "add nü doken",
+      "available": "availabøl",
+      "amount": "tøatol",
+      "token": "doken",
+      "swapFee": "zet treet sacrifize",
+      "undersandCost": "i unnerstan dat cre8in a nü splazhie wil cozt {POOL_CREATION_FEE}.",
+      "interestedCreate": "interezted n cre8ing a nū splazhie¿",
+      "startProcess": "boop diz buttom 2 begim"
+    }
+  },
+  "pool": {
+    "title": "GRAZZ ROLL #{id}",
+    "swap": "flip fløøp deez dokens",
+    "superfluidEnabled": "zuperfloofieflooid steakimg enabold {nomnomnom hehe]",
+    "24hrTradingVolume": "7døgD trading tail wagz",
+    "liquidity": "SPLASHIE LICCWIDITEA",
+    "swapFee": "swap gloomiez",
+    "yourStats": "how güd ov boi u r",
+    "sharesAmount": "{shares} sharez",
+    "currentDailyEarn": "how meny treetz u r earnimg",
+    "earnMore": "earn moar treetz by bonding [i lovb 2 bond wif nu frenz}",
+    "dailyEarnAmount": "{amount} / 7 døg dayz",
+    "putAssetsToWork": "take ur azzetz on a walcc",
+    "putAssetsToWorkCaption": "add ur treetz 2 dis pool 2 unlocc da zoomiez¡¡!! da lonner u sit n ztay da moar treetz u will earn 🌭",
+    "learnMore": "lern moar",
+    "level": "levol {level}",
+    "earnSwapFees": "earn hand liccz",
+    "earnSwapFeesCaption": "convurt ur tokenz n 2 sharez n earn on everie zwap",
+    "APR": "APR",
+    "bondLiquidity": "Bond liquidity",
+    "bondLiquidityUnavailable": "Bond liquidity (unavailable)",
+    "checkBackForBondingRewards": "Check back for bonding rewards",
+    "bondLiquidityCaption": "Lock up your shares for longer durations to earn higher APRs.",
+    "bondSuperfluidLiquidityCaption": "Go superfluid for maximum rewards.",
+    "bondShares": "Bond Shares",
+    "amountDaysUnbonding": "{numDays} days unbonding",
+    "shares": "shares",
+    "unbonded": "Unbonded",
+    "unbond": "Unbond",
+    "bonded": "Bonded",
+    "showDetails": "Show details",
+    "collapseDetails": "Collapse details",
+    "sharesAvailableIn": "available in",
+    "unbonding": "unbonding",
+    "superfluidEarnMore": "Earn {rate} more. Go superfluid",
+    "incentives": "Incentives",
+    "details": "Details",
+    "rewardDistribution": "Rewards distributed to all liquidity providers",
+    "superfluidStaking": "Superfluid Staking",
+    "delegated": "delegated",
+    "undelegating": "undelegating",
+    "commission": "commission",
+    "numDaysRemaining": "{numDays} days remaining",
+    "from": "from",
+    "swapFees": "swap fees",
+    "7davg": "(7d avg)"
+  },
+  "removeLiquidity": {
+    "title": "Remove Liquidity",
+    "titleInPool": "Remove liquidity from pool #{poolId}",
+    "sharesAmount": "{shares} shares"
+  },
+  "addLiquidity": {
+    "title": "Add Liquidity",
+    "titleInPool": "Add liquidity to pool #{poolId}",
+    "allAssets": "All assets",
+    "singleAsset": "Single asset",
+    "available": "Available",
+    "autoswapCaption": "Use autoswap to add liquidity with a single asset.",
+    "stablecoinWarning": "You are adding liquidity to {denom}, a {mechanism}-backed stablecoin."
+  },
+  "lockToken": {
+    "title": "Bond LP Shares",
+    "titleInPool": "Lock shares in pool #{poolId}",
+    "selectPeriod": "Select unbonding period",
+    "availableToken": "Available",
+    "amountToBond": "Amount to bond",
+    "superfluidStake": "Superfluid staking",
+    "bondingRequirement": "{numDays} day bonding requirement",
+    "buttonNext": "Next",
+    "buttonBond": "Bond",
+    "buttonBondStake": "Bond & Stake"
+  },
+  "superfluidValidator": {
+    "title": "Select Superfluid Validator",
+    "titleMobile": "Select Validator",
+    "choose": "Choose your superfluid validator",
+    "search": "Search by name",
+    "bondedAmount": "Bonded Amount",
+    "estimation": "Estimated Superfluid Delegation",
+    "estimationMobile": "Est. Delegation",
+    "estimationInfo": "The value of this delegation fluctuates and is estimated based on the amount of OSMO in the pool.",
+    "buttonBond": "Bond & Stake",
+    "columns": {
+      "validator": "Validator",
+      "commission": "Commission"
+    }
+  },
+  "assets": {
+    "totalAssets": "Total",
+    "unbondedAssets": "Unbonded",
+    "bondedAssets": "Bonded",
+    "stakedAssets": "Staked OSMO",
+    "myPools": "My Pools",
+    "transferAssetSelect": {
+      "deposit": "Deposit",
+      "withdraw": "Withdraw",
+      "network": "Network",
+      "buttonNext": "Next"
+    },
+    "poolCards": {
+      "APR": "APR",
+      "FeeAPY": "Fee APY",
+      "liquidity": "Pool Liquidity",
+      "bonded": "Bonded",
+      "myLiquidity": "My Liquidity"
+    },
+    "ibcTransfer": {
+      "titleWithdraw": "Withdraw {coinDenom}",
+      "titleDeposit": "Deposit {coinDenom}",
+      "selectAmount": "Select Amount",
+      "estimatedTime": "Estimated Time",
+      "waitTime": "20 seconds",
+      "copied": "Copied!",
+      "IBCTransfer": "IBC Transfer",
+      "from": "from",
+      "to": "to",
+      "warningLossFunds": "Warning: Withdrawing to central exchange address will result in loss of funds.",
+      "buttonEnter": "Enter",
+      "checkboxVerify": "I verify I am not sending to an exchange address.",
+      "buttonEdit": "Edit",
+      "amoutWithdraw": "Amount To Withdraw",
+      "amoutDeposit": "Amount To Deposit",
+      "availableBalance": "Available balance:",
+      "MAX": "MAX"
+    },
+    "transfer": {
+      "titleWithdraw": "Withdraw {coinDenom}",
+      "titleDeposit": "Deposit {coinDenom}",
+      "warnDepositAddressDifferent": "Warning: the selected account in {address} differs from the account you last deposited with.",
+      "from": "From",
+      "to": "To",
+      "via": "via",
+      "loading": "Loading",
+      "availableOn": "Available on {network}",
+      "availableMobile": "Available",
+      "transferFee": "Transfer Fee",
+      "errors": {
+        "reconnectWallet": "Reconnect {walletName}",
+        "wrongNetworkInWallet": "Wrong network in {walletName}",
+        "insufficientFee": "Insufficient Fee",
+        "insufficientBal": "Insufficient Balance"
+      },
+      "wrapNativeLink": "Convert {fromDenom} to {toDenom} on {platformName}",
+      "waitTime": "{minutes} minutes"
+    },
+    "selectAssetSource": {
+      "titleWithdraw": "Withdraw to",
+      "titleDeposit": "Deposit from",
+      "next": "Next",
+      "installWallet": "Install {walletName}"
+    },
+    "table": {
+      "depositButton": "Deposit",
+      "withdrawButton": "Withdraw",
+      "search": "Filter by symbol",
+      "title": "Assets",
+      "hideZero": "Hide zero balances",
+      "buyOsmo": "Buy",
+      "preTransfer": {
+        "deposit": "Deposit",
+        "withdraw": "Withdraw",
+        "currentBal": "Current Balance"
+      },
+      "columns": {
+        "assetChain": "Asset / Chain",
+        "balance": "Balance",
+        "transfer": "Transfer",
+        "deposit": "Deposit",
+        "withdraw": "Withdraw"
+      },
+      "sort": {
+        "symbol": "Symbol",
+        "network": "Network",
+        "balance": "Balance"
+      }
+    },
+    "historyTable": {
+      "title": "Transfer History",
+      "pending": "Pending",
+      "success": "Success",
+      "refunded": "Refunded",
+      "pendingRefunded": "Failed: Pending refund",
+      "colums": {
+        "transactionHash": "Transaction Hash",
+        "type": "Type",
+        "amount": "Amount",
+        "status": "Status",
+        "deposit": "Deposit",
+        "withdraw": "Withdraw"
+      }
+    }
+  },
+  "components": {
+    "show": {
+      "more": "View more",
+      "less": "View less"
+    },
+    "table": {
+      "poolId": "Pool #{id}"
+    },
+    "sort": {
+      "SORT": "Sort by",
+      "SORTMobile": "Sort",
+      "mobileMenu": "Sort by"
+    },
+    "MAX": "MAX",
+    "searchTokens": "Search tokens"
+  },
+  "menu": {
+    "swap": "Swap",
+    "pools": "Pools",
+    "assets": "Assets",
+    "stake": "Stake",
+    "vote": "Vote",
+    "info": "Stats",
+    "signOut": "Disconnect",
+    "help": "Get Support Lab Help",
+    "learnMoreFrontier": "Learn More<br/>About the <br2/> <name>Osmosis Frontier</name>"
+  },
+  "settings": {
+    "title": "Settings",
+    "titleLanguage": "Language",
+    "titleShowDust": "Show pools/assets < {fiatSymbol}0.01"
+  },
+  "404": {
+    "title": "Not found"
+  },
+  "500": {
+    "title": "Server error"
+  },
+  "errors": {
+    "emptyAmount": "Amount is empty",
+    "invalidNumberAmount": "Invalid form of number",
+    "zeroAmount": "Amount is zero",
+    "negativeAmount": "Amount is negative",
+    "insufficientAmount": "Insufficient amount",
+    "negativeSwapFee": "Swap fee is negative",
+    "highSwapFee": "Swap fee too high",
+    "invalidSwapFee": "Swap fee is invalid",
+    "minAssetsCount": "Minimum of {num} assets required",
+    "maxAssetsCount": "Maximum of {num} assets allowed",
+    "negativePercentage": "Percentage must be positive",
+    "percentageSum": "Sum of percentages is not 100",
+    "depositNoBalance": "You have no assets to deposit",
+    "negativeSlippage": "Slippage cannot be negative",
+    "invalidSlippage": "Invalid slippage",
+    "noSendCurrency": "Currency to send not set",
+    "insufficientBal": "Insufficient balance",
+    "notInitialized": "Not initialized",
+    "calculatingShareOutAmount": "Problem calculating out amount",
+    "noAvailableShares": "No available {denom} shares",
+    "generic": "Error"
+  },
+  "connectWallet": "Connect wallet",
+  "keplr": {
+    "install": "Install Keplr",
+    "wallet": "Keplr Wallet",
+    "extension": "Keplr Browser Extension",
+    "walletConnect": "WalletConnect",
+    "mobile": "Keplr Mobile"
+  },
+  "connectDisclaimer": "By connecting a wallet, you acknowledge that you have read and understand the Osmosis",
+  "protocolDisclaimer": "Protocol Disclaimer",
+  "Transaction Failed": "Transaction Failed",
+  "Transaction Successful": "Transaction Successful",
+  "Transaction Broadcasting": "Transaction Broadcasting",
+  "Swap failed. Liquidity may not be sufficient. Try adjusting the allowed slippage.": "Swap failed. Liquidity may not be sufficient. Try adjusting the allowed slippage.",
+  "Waiting for transaction to be included in the block": "Waiting for transaction to be included in the block",
+  "view explorer": "view explorer",
+  "Unknown error": "Unknown error",
+  "Request rejected": "Request rejected",
+  "Amount is empty": "Amount is empty",
+  "Insufficient amount": "Insufficient amount",
+  "Amount is zero": "Amount is zero",
+  "Minimum of 2 assets required": "Minimum of 2 assets required"
+}
